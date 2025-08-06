@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+python-dotenv
+tiktoken
+unstructured[local-inference]
+sentence-transformers
+groq
+transformers
+torch
